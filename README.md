@@ -68,7 +68,7 @@
 
 # 🌐 Connect With Me
 
-* 🌍 Portfolio: https://chokribettaibi.github.io/MyProfile/
+* 🌍 Portfolio: https://bettaibichokri.com
 * 📧 Email: [bettaibichokrino001@gmail.com](mailto:bettaibichokrino@gmail.com)
 
 ---
