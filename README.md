@@ -1,32 +1,80 @@
-# 💫 About Me:
-👋 Hi there! I'm a **Web Developer** and **Data Scientist** passionate about building intelligent and scalable web applications.<br>
-💡 I enjoy combining **frontend creativity** with **data-driven insights** to craft smart digital solutions.<br>
-🚀 Currently improving my skills in **React**, **Node.js**, and **Machine Learning**.<br>
-📚 Always learning new tools and exploring modern technologies.<br>
-🌐 Open to remote collaboration and innovative projects!<br>
+# 💫 About Me
+
+👋 Hi! I'm a **Full Stack Web Developer** with a strong passion for building modern, responsive, and high-performance web applications.
+
+💻 I specialize in creating complete web solutions, from intuitive user interfaces to robust backend systems and databases. I enjoy transforming ideas into practical, scalable products while continuously learning new technologies and best practices.
+
+🚀 My current focus is on mastering advanced full-stack development, improving application architecture, and building production-ready projects.
+
+📚 Always exploring new tools, frameworks, and development techniques to stay up to date with the latest industry standards.
+
+🌍 Open to freelance opportunities, remote collaborations, and innovative software projects.
 
 ---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+# 💻 Tech Stack
+
+### 🌐 Frontend
+
+* HTML5
+* CSS3
+* Sass
+* Bootstrap
+* Tailwind CSS
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* Next.js
+
+### ⚙️ Backend
+
+* Express.js
+* REST API Development
+
+### 🗄️ Database
+
+* MySQL
+
+### 🛠️ Tools & Environment
+
+* Git & GitHub
+* Linux
+* VS Code
 
 ---
 
+# 🎯 What I Build
 
-
-# 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://chokribettaibi.github.io/MyProfile/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bettaibichokrino@gmail.COM)
+* Responsive Websites
+* Full Stack Web Applications
+* RESTful APIs
+* Admin Dashboards
+* Business Management Systems
+* Portfolio Websites
+* Inventory & Stock Management Systems
+* Modern UI/UX Interfaces
 
 ---
 
-# ✨ Fun Fact:
-💬 “Code is like humor — when you have to explain it, it’s bad.” 😄
+# 🌱 Currently Learning
+
+* Advanced Next.js
+* Backend Architecture
+* Performance Optimization
+* Software Design Patterns
+* Cloud Deployment & DevOps
+
+---
+
+# 🌐 Connect With Me
+
+* 🌍 Portfolio: https://chokribettaibi.github.io/MyProfile/
+* 📧 Email: [bettaibichokrino001@gmail.com](mailto:bettaibichokrino@gmail.com)
+
+---
+
+# ✨ Philosophy
+
+> "Clean code, continuous learning, and solving real-world problems are the foundation of every great developer."
+
+🚀 Building modern web experiences, one project at a time.
